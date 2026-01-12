@@ -1,0 +1,1 @@
+int strncmp(int size, char *c1, char *c2);
