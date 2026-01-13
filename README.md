@@ -1,8 +1,13 @@
 # haltOS
 
-Hult OS is an open-source operating system designed for architecture 
+Hult OS is an operating system designed for 32-bit architecture. 
 
+It is an open-source project and is considered an educational project.
 
-The project contains organized files and aims to deploy an operating system that is flexible and lightweight.
+You can participate in developing and improving this system for the community. 
 
-# Project files
+This project is 100% Algerian 🇩🇿🇩🇿🇩🇿
+
+You can start the system by typing  :
+qemu-system-i686 -kernel halt.elf
+
