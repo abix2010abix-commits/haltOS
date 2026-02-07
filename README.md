@@ -8,6 +8,5 @@ You can participate in developing and improving this system for the community.
 
 This project is 100% Algerian 🇩🇿🇩🇿🇩🇿
 
-You can start the system by typing  :
-qemu-system-i686 -kernel halt.elf
+
 
