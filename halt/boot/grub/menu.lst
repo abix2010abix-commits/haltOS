@@ -1,0 +1,5 @@
+default=0
+timeout -1
+
+title halt OS 0.1
+kernel /boot/halt.elf
